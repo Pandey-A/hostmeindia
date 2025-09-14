@@ -37,10 +37,7 @@ const images = [
   { src: Meercats, description: "A family of meerkats standing watch" },
 ];
 
-const fadeInUp = {
-  hidden: { opacity: 0, y: 50 },
-  visible: { opacity: 1, y: 0, transition: { duration: 1, ease: "easeOut" } },
-};
+
 
 const Gallery = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -81,7 +78,7 @@ const Gallery = () => {
       initial="hidden"
       whileInView="visible"
       viewport={{ once: false, amount: 0.2 }} // Triggers when section comes into view
-      variants={fadeInUp}
+  
     >
       <div className="flex flex-wrap justify-center gap-4 w-full px-4">
         <AnimatePresence mode="popLayout">

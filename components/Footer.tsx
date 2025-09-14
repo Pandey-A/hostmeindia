@@ -19,7 +19,7 @@ const Footer = () => {
             />
           </Link>
           <p className="text-sm text-center lg:text-left">
-            Copyright © 2025 Hostme India Pvt. Ltd. All Rights Reserved.
+            Copyright © 2025 Hostmen India Pvt. Ltd. All Rights Reserved.
           </p>
         </div>
 
