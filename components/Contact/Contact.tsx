@@ -39,10 +39,10 @@ const ContactUs: React.FC = () => {
               <li className="flex items-center">
                 <i className="bx bx-envelope text-green1 text-2xl mr-4"></i>
                 <a
-                  href="mailto:hostmeindia@gmail.com"
+                  href="mailto:business@hostmenindia.com"
                   className="text-green1 hover:text-[#7F9492] transition-colors"
                 >
-                  hostmeindia@gmail.com
+                  business@hostmenindia.com
                 </a>
               </li>
 
@@ -78,7 +78,7 @@ const ContactUs: React.FC = () => {
               Find us at our office or contact us for more details.
             </p>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.19164414426!2d36.77627532582244!3d-1.2922792237227505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1a52a1cbd07d%3A0x794f3b7c1b8f9c38!2sKirichwa%20Gardens%20Rd%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1692211510117!5m2!1sen!2ske"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d259108.82031564556!2d80.12633639057806!3d26.44992330178127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c47748c515cbd%3A0x55aaee4066e7c5d3!2sKanpur%2C%20Uttar%20Pradesh%2C%20India!5e0!3m2!1sen!2sin!4v1694703325000!5m2!1sen!2sin"
               width="100%"
               height="250"
               style={{ border: 0 }}
