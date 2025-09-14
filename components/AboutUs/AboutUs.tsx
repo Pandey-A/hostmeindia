@@ -6,10 +6,10 @@ import Flying from "../../public/images/Flying.jpg";
 import Travel from "../../public/images/Travel.jpg";
 
 // Define the transition effect for fade-in with slight movement
-const fadeInUp = {
-  hidden: { opacity: 0, y: 50 },
-  visible: { opacity: 1, y: 0, transition: { duration: 1, ease: "easeOut" } },
-};
+// const fadeInUp = {
+//   hidden: { opacity: 0, y: 50 },
+//   visible: { opacity: 1, y: 0, transition: { duration: 1, ease: "easeOut" } },
+// };
 
 const AboutUs = () => {
   return (
