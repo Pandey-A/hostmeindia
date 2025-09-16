@@ -40,7 +40,7 @@ const Navbar = () => {
     >
       <div className="w-full flexBetween max-container padding-container z-30">
         <Link href="/">
-          <p><Image src="/logo.png" alt="logo" width={60} height={60} /> Hostmen India</p>
+          <p><Image src="/logo.png" alt="logo" width={60} height={60} /> Hostmen India Tourists Private Limited</p>
         </Link>
 
         {/* Desktop Nav */}
